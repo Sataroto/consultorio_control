@@ -1,0 +1,10 @@
+/econsultorio
+
+# Archivos de base de datos
+db.sqlite3
+
+__pycache__/
+*.pyc
+
+/staticfiles/
+/mediafiles/
